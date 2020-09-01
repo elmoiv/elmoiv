@@ -10,7 +10,6 @@ Common Languages
 <p align="center">
   <img alt = "Python" src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white">&nbsp; &nbsp;<img alt = "HTML" src="https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white">
 </p>
-<br>
 
 <p align="center">
 <img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elmoiv&layout=compact&hide=html,&hide_border=true&title_color=5391FE&text_color=555">
