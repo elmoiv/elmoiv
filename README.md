@@ -2,7 +2,7 @@
 Khaled El-Morshedy
 </h1>
 <p align="center">
-<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elmoiv&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
+<img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=elmoiv&count_private=true&show_icons=true&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555">
 </p>
 <h2 align="center">
 Common Languages
