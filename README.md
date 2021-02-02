@@ -10,7 +10,7 @@ Khaled El-Morshedy
 Common Languages
  </h2>
 <p align="center">
-  <img alt = "Python" src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white">&nbsp; &nbsp;<img alt = "HTML" src="https://img.shields.io/badge/-HTML-E15622?style=for-the-badge&logo=HTML5&logoColor=white">
+  <img alt = "Python" src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white">
 </p>
 
 <p align="center">
