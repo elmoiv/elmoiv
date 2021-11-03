@@ -11,8 +11,6 @@ Common Languages
  </h2>
 <p align="center">
   <img alt = "Python" src="https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=Python&logoColor=white">
-</p>
-<p align="center">
   <img alt = "Dart" src="https://img.shields.io/badge/-Dart-informational?style=for-the-badge&logo=Dart&color=greenaccent&logoColor=white">
 </p>
 <p align="center">
