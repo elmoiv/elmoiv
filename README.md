@@ -1,6 +1,6 @@
 <a href="elmoiv.github.io">
 <h1 align="center">
-Khaled El-Morshedy
+Khaled ElMorshedy
 </h1>
 </a>
 <p align="center">
